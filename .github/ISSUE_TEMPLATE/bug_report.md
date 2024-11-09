@@ -16,11 +16,8 @@ Describe claramente el error que has encontrado. Incluye detalles sobre cómo se
 **Reproducir**
 
 1. Ir a '...'
-
 2. Hacer clic en '...'
-
 3. Describir cualquier otra acción hasta que ocurra el problema.
-
 4. Error que aparece: '...'
 
 **Comportamiento esperado**
