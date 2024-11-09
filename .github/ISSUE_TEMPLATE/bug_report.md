@@ -1,4 +1,5 @@
-name: 🐛 Bug Report
+---
+name:🐛 Bug Report
 about: Reportar un error para ayudarnos a mejorar el proyecto.
 title: "[BUG] Descripción corta del error"
 labels: bug
@@ -6,13 +7,13 @@ assignees: ""
 
 ---
 
-## 🐛 Bug Report
 
-### Descripción
+
+**Descripción el error**
 
 Describe claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
 
-### Pasos para reproducir
+**Reproducir**
 
 1. Ir a '...'
 
@@ -22,15 +23,15 @@ Describe claramente el error que has encontrado. Incluye detalles sobre cómo se
 
 4. Error que aparece: '...'
 
-### Comportamiento esperado
+**Comportamiento esperado**
 
 Describe lo que esperabas que ocurriera al realizar los pasos anteriores.
 
-### Capturas de pantalla o registros
+**Capturas de pantalla o registros**
 
 Si es posible, añade capturas de pantalla o registros de errores.
 
-### Entorno
+**Entorno**
 
 - Sistema operativo: [p. ej., Windows 10, macOS Catalina]
 
@@ -38,6 +39,6 @@ Si es posible, añade capturas de pantalla o registros de errores.
 
 - Versión del proyecto: [p. ej., 1.0.0]
 
-### Información adicional
+**Información adicional**
 
 Cualquier otra información relevante.
